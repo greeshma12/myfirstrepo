@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		SalesData salesdata=new SalesData();
 		System.out.println("Welcome to the world!!!!");
+		System.out.println("welcome");
 		salesdata.display();
 		
 
